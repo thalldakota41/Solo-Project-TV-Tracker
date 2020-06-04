@@ -1,0 +1,9 @@
+I would like to create an app that tracks the user's tv shows. There are apps that do this but they aren't as user-friendly as I would like. Letterboxd.com is really good example of the aesthetic and functionality I would like to replicate with the tv track app. 
+
+The index page will offer non-users a list of current shows that are recommended from other users or critics. There will be a nagivation toolbar at the top that offers a sign-in, create account, link to most popular shows of the week, recommended lists of shows by users, and what networks are airing which shows. At the bottom of the page will be a list of the most recent tv show reviews and maybe a list of the top ten most viewed or liked reviews. 
+
+The create account function will ask the user to provide a username, email, and password. I don't see the need for a first and last name. 
+
+When a user clicks on a tv show's individual page, all of the show's details will be displayed: logline, year, creators, actors, where it is streaming, etc. Ostensibly I would like to include all of the mico-features but time is a factor. 
+
+When a user is logged in, they will have the options to log tv shows they have seen, add certain tv shows to a favorites list, tv shows they watch, create a list of preferred (or hated) tv shows, and a networking option to connect to other users with similar taste. 
